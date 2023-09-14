@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&display=swap');
+
+*{padding: 0; margin: 0; color: #ffffff;}
+html{font-size: 16px;}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+li{
+    list-style: none;
+}
+img{ 
+    display: block;
+}
+.clearfix::before,.clearfix::after{display: block; content: ''; clear: both;}
+body{
+    font-family: 'Gothic A1', sans-serif;
+    font-family: 'Nanum Gothic', sans-serif;
+    overflow-x: hidden;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    position: relative;
+    background-color: #21201e;
+}
+body::-webkit-scrollbar{
+    display: none;
+}
+/*==================== nav============================ */
+nav{
+    width: 100%;
+    height: 180px;
+    display: flex;
+    color: #333;
+    position: relative;
+}
+nav>.logo{
+    width: 100%;
+    height: 43.88%;
+    margin: auto;
+    position: absolute;
+    top: 27.77%;
+}
+nav>.logo img{
+    width: 7.062rem;
+    height: 4.937rem;
+}
+.logo>a>p{
+    width: 8.125rem;
+    text-align: center;
+    font-size: 1.25rem;
+    padding-top: 1.25rem;
+    font-weight: 500;
+    font-family: 'Merriweather',serif;
+}
+.logo img,.logo>a>p{
+    margin: auto;
+}
+nav>.menu{
+    position: absolute;
+    text-align: center;
+    font-size: 1.25rem;
+    font-weight: 600;
+    top:27.77%;
+    right: 3.645%;
+}
+nav>.menu li{
+    margin-top: 1.875rem;
+}
+nav>.menu img{
+    margin: auto;
+    margin-right: 1.375rem;
+    cursor: pointer;
+    width: 1.875rem;
+    height: 1.875rem;
+}
+nav>.menu li>a{
+    display: none;
+}
+/*======================= //nav==================== */
+
+/*======================== contactUs =================*/
+#contactUs{width: 75rem; margin: auto;}
+#contactUs h2{font-size: 1.875rem; font-weight: 900; margin: 12.5rem 0 6.25rem 0;}
+#contactUs .line{width: 75rem; height: 0.125rem; background-color: #ffffff; margin-bottom: 3.125rem;}
+
+/* contents */
+    /* left-con */
+    .contents>.left-con{float: left;}
+    .left-con p{font-size: 1.0625rem; font-weight: 500; margin-bottom: 1.25rem;}
+    .left-con p>span{font-size: 0.625rem; color: #dd3e1f; margin-left: 0.1875rem; vertical-align: middle;}
+    .left-con>form>div{margin-bottom: 1.875rem;}
+    /* company */
+    .company input{width: 35.9375rem; height: 2.1875rem; padding-left: 0.625rem;}
+    /* name */
+    .name input{width: 35.9375rem; height: 2.1875rem; padding-left: 0.625rem;}
+    /* telephone */
+    .telephone input{width: 3.75rem; height: 2.1875rem; padding-left: 0.625rem;}
+    /* email */
+    .email input{width: 35.9375rem; height: 2.1875rem; padding-left: 0.625rem;}
+    /* business */
+    .business>p{margin-bottom: 1.875rem;}
+    .business ul>li{margin-bottom: 2.1875rem; font-size: 0.9375rem; font-weight: 100;}
+    /* detail */
+    .detail textarea{width: 34.6875rem; height: 4.375rem; padding: 0.9375rem;}
+    /* budget */
+    .budget textarea{width: 34.6875rem; height: 4.375rem; padding: 0.9375rem;}
+    /* upload */
+    .upload p{margin: 0;}
+    .upload input[type="file"]{position: relative; left: 6.0625rem; top: 2.3125rem; z-index: -1;}
+    .upload input[type="file"] + label::before{content: "파일선택"; display: block; width: 7.8125rem; height: 3.125rem; background-color: #ffffff; color: black; border-radius: 0.1875rem; font-size: 1.0625rem; font-weight: 500; line-height: 3.125rem; text-align: center; padding: 0 0.625rem 0 2.1875rem;}
+    .upload input[type="file"] + label>img{position: relative; top: -2.0625rem; left: 2.1875rem; width: 1.1875rem; height: 1.0625rem;}
+    /* right-con */
+    .contents>.right-con{float: right;}
+    .right-con>.t1{font-size: 0.9375rem; font-weight: 200; margin-bottom: 5rem; line-height: 1.5;}
+    .right-con>.t2{font-size: 1.0625rem; font-weight: 200; margin-bottom: 1.5625rem; line-height: 1.5;}
+    .right-con>.t3{font-size: 1.0625rem; font-weight: 200; margin-bottom: 5.625rem; line-height: 1.7;}
+    .right-con>.t4{font-size: 1.125rem; font-weight: 600; margin-bottom: 3.125rem; line-height: 2;}
+    .right-con>div{width: 32.1875rem; height: 0.125rem; background-color: #ffffff;}
+/* //contents */
+
+/* textbox */
+    input[type="text"]{background-color: #21201e; border: 0.0625rem solid #ffffff;}
+/* checkbox */
+    input[type="checkbox"]{position: absolute; left: -3000%;}
+    input[type="checkbox"] + label {}
+    input[type="checkbox"] + label::before {content: ""; display: inline-block; width: 0.9375rem; height: 0.9375rem; border: 0.0625rem solid #ffffff; background-color: #ffffff; border-radius: 0.125rem; position: relative; top: 0.1875rem; margin-right: 0.9375rem; transition: all 0.5s;}
+    input[type="checkbox"]:checked + label::before { background: url(../img/check.png) no-repeat center; background-size: 0.8125rem auto;}
+/* textarea */
+    textarea{background-color: #21201e; border: 0.0625rem solid #ffffff;}
+/* agree */
+    .agree div{
+        width: 34.6875rem;
+        height: 10.625rem;
+        border: 0.0625rem solid #ffffff;
+        overflow-y: scroll;
+        font-size: 0.9375rem;
+        padding: 0.9375rem;
+        line-height: 1.5;
+    }
+    .agreecheck{margin-top: 0.625rem;}
+    .agree input[type="submit"]{margin-top: 1.25rem; margin-bottom: 18.75rem; width: 36.5625rem; height: 2.1875rem; border: 0.0625rem solid #fefafa; background-color: #3d3d3d; font-size: 1.0625rem; cursor: pointer;}
+/*======================== //contactUs =================*/
+
+/*======================= footer ==================== */
+footer{
+    margin-top: 7.8125rem;
+    width: 100%;
+    overflow: hidden;
+    color: antiquewhite;
+}
+footer>h4{
+    width: 100%;
+    margin-left: 12.1875rem;
+    margin-bottom: 3.75rem;
+    float: left;
+}
+footer>.company_info{
+    width: 100%;
+    margin-left: 12.1875rem;
+    margin-bottom: 3.125rem;
+    float: left;
+}
+footer>.company_info>p{
+    margin-bottom: 1.25rem;
+}
+.left_right{
+    width: 100%;
+    display: flex;
+    margin-bottom: 6.875rem;
+    justify-content: space-between;
+}
+.copy{
+    margin-left: 12.1875rem;
+}
+.insta{
+    margin-right: 12.1875rem;
+}
+/*======================= //footer ==================== */
+
+@media (min-width: 0) and (max-width: 768px) {
+    html{font-size: 0.625rem;}
+
+    #contactUs{width: 52rem;}
+    #contactUs .line{width: 100%;}
+    .contents>.left-con{float: none;}
+    .upload input[type="file"]{left: 3.34rem; top: 2.8rem;}
+    .agree input[type="submit"]{margin-bottom: 8rem;}
+    .contents>.right-con{float: none;}
+    .right-con>div{width: 100%;}
+}
+

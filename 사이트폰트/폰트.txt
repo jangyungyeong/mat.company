@@ -1,0 +1,19 @@
+한글폰트
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1:wght@100;200;300;400;500;600;700;800;900&display=swap');
+</style>
+font-family: 'Gothic A1', sans-serif;
+
+영문폰트
+
+제목폰트
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+</style>
+font-family: 'Merriweather', serif;
+
+내용폰트
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&display=swap');
+</style>
+font-family: 'Nanum Gothic', sans-serif;
