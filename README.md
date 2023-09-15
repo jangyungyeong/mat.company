@@ -1,8 +1,7 @@
 # mat.company
 
 <p align="center"><img src="https://github.com/jangyungyeong/mat.company/assets/117636044/b7d811a1-9a36-4d8b-85c9-15f81b60ef69" width="300" ></br>
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svgurl=https%3A%2F%2Fgithub.com%2Fjangyungyeong%2Fmat.company.git&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
+  <a href="https://hits.seeyoufarm.com">    <imgsrc="https://hits.seeyoufarm.com/api/count/incr/badge.svgurl=https%3A%2F%2Fgithub.com%2Fjangyungyeong%2Fmat.company.git&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
   </a>
   </p>
 </br>
