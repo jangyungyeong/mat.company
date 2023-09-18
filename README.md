@@ -11,8 +11,8 @@
 <p align="center"></p>
 Make a turn(생각의 방향을 바꾸다)</br>
 아이덴티디 개발/관리 서비스를 제공하는 브랜딩 전문 기업의 웹 페이지 디자인</br>
-개발기간 : 2022.09 - 2022.10
-웹사이트 :  <a href="http://mat.dothome.co.kr">   
+개발기간 : 2022.09 - 2022.10 </br>
+웹사이트 : [mat.company](http://mat.dothome.co.kr)
 </br></br>
 
 
