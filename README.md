@@ -40,13 +40,12 @@ Make a turn(생각의 방향을 바꾸다)</br>
 ## :loudspeaker: 프로젝트 소개
 <p align="center"></p></br>
 
-* 고객의 마음을 사로잡는것에 있어 쉽고 편리합니다
-  - 고객은 나를 기억해주고 나의 취향이나 타입에 맞는 상품을 추천해주는 응대직원에게 친밀감이 생기기 때문에 결과적으로 브랜드의 충성도가 높아질것입니다
-  - 직원은 고객을 기억하고 니즈를 파악하는 시간이 축소가 되어 쉽게 고객에게 다가갈수 있고 업무의 능률이 향상될것입니다
+* 식당에서 밥을먹고 카페를 가고 옷을 구매하는 과정에서 저렴한 가격과 많은양을 내새우기 보다 브랜드가 추구하는 가치를 독창적으로 풀어가는 브랜드를 알아보고 소비하는것을 즐겼습니다.
+그래서 이런 브랜드들이 더 많아지고 많은사람들이 알아봐주고 브랜딩에 대한 중요성을 알리고 싶어서 mat라는 가상의 브랜딩 사이트를 만들게 되었습니다.
   
-* 브랜드/기업의 가치를 올리고, 매출을 증진시킬수 있습니다
-  - CRM솔루션을 통해 서비스를 제공하면 고객은 대우를 받는다고 생각할것이고 고객한명한명을 소중히 여기는 브랜드의 가치는 상승할것입니다.
-  - 고객의 재구매율이 높아지고 상황에 맞게 마케팅전략을 세울수 있어 매출 상승에 도움을 줍니다
+* 여러기업/브랜드들이 우리의 브랜딩 컨설팅을 통해 어떻게 바뀌었는지 정보를 확인할수 있고 신청서를 작성하여 컨설팅 예약이 가능합니다.
+  - 각각 브랜드에 맞게 제안된 스토리텔링, 로고, 아이덴티티, 인테리어 등을 확인할수 있습니다.
+  - 예약신청서의 질의응답을 작성하고 첨부파일을 보냄으로써 맞춤 컨설팅이 가능합니다
 </br>
 
 
@@ -56,23 +55,11 @@ Make a turn(생각의 방향을 바꾸다)</br>
 <div align=center><h2>📚 STACKS</h2></div></br>
 <p align="center"></p>
 <div align=center> 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <br>
-  
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <br>
-  
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" magin-top="20"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-  <br>
-  
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" magin-top="20">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <br>
 </div>
 </br>
 <p align="center" height="10"></p>
