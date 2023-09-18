@@ -121,4 +121,5 @@ Make a turn(생각의 방향을 바꾸다)</br>
 
   #### 디렉토리 구조
 
+![image](https://github.com/jangyungyeong/mat.company/assets/117636044/8e76948b-6d81-4e0f-94a2-dfdb79543221)
 
